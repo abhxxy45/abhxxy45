@@ -1,5 +1,3 @@
-# 👋 ABHAY VERMA
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=220&section=header&text=Abhay%20Verma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
