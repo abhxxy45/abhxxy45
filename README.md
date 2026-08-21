@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BSc%20IT-2025--2027-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/BSc%20IT-2024--2027-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/Thakur%20College-Mumbai-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%2FML-Exploring-6D28D9?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Mumbai%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" />
