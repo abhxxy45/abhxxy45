@@ -76,7 +76,7 @@ My current technical direction spans **full-stack engineering, AI/ML, data analy
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongoDB" />
 </p>
 
 ### Cloud, DevOps & Tooling
